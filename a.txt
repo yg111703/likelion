@@ -1,2 +1,5 @@
 Hello, World!
 안녕하세요
+apple
+banana
+안녕
